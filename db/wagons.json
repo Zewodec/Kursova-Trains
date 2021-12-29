@@ -1,0 +1,57 @@
+[{
+  "_id": "LW-72000-2005",
+  "serviceStaff": 6,
+  "maxSpeed": 130,
+  "maxPullWeight": 72000,
+  "weight": 11100,
+  "_class": "com.victoria.course.transport.Locomotive"
+},{
+  "_id": "LW-120000-2015",
+  "serviceStaff": 5,
+  "maxSpeed": 150,
+  "maxPullWeight": 120000,
+  "weight": 18000,
+  "_class": "com.victoria.course.transport.Locomotive"
+},{
+  "_id": "PW-C2-2021-T1",
+  "passengersCap": 100,
+  "comfortLevel": "SECOND",
+  "luggageCap": 2500,
+  "weight": 6000,
+  "_class": "com.victoria.course.transport.PassengerWagon"
+},{
+  "_id": "PW-C1-2022-T1",
+  "passengersCap": 40,
+  "comfortLevel": "FIRST",
+  "luggageCap": 2000,
+  "weight": 4200,
+  "_class": "com.victoria.course.transport.PassengerWagon"
+},{
+  "_id": "PW-C3-1998-T5",
+  "passengersCap": 120,
+  "comfortLevel": "THIRD",
+  "luggageCap": 3200,
+  "weight": 7500,
+  "_class": "com.victoria.course.transport.PassengerWagon"
+},{
+  "_id": "PW-C1-2021-T1",
+  "passengersCap": 55,
+  "comfortLevel": "FIRST",
+  "luggageCap": 2600,
+  "weight": 5500,
+  "_class": "com.victoria.course.transport.PassengerWagon"
+},{
+  "_id": "PW-C2-2007-T3",
+  "passengersCap": 120,
+  "comfortLevel": "SECOND",
+  "luggageCap": 3400,
+  "weight": 7500,
+  "_class": "com.victoria.course.transport.PassengerWagon"
+},{
+  "_id": "PW-C2-2011-T1",
+  "passengersCap": 105,
+  "comfortLevel": "SECOND",
+  "luggageCap": 3000,
+  "weight": 7000,
+  "_class": "com.victoria.course.transport.PassengerWagon"
+}]
